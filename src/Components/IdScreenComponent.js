@@ -9,7 +9,7 @@ class IdScreenComponent extends Component {
 
     render(){
         return(
-            <p>I am component!</p>
+            <p>I am component</p>
         )
     }
 }
